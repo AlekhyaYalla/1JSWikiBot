@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "azureBotId": {
+            "value": "1JSWikiBot"
+        },
+        "azureBotSku": {
+            "value": "S1"
+        },
+        "azureBotRegion": {
+            "value": "global"
+        },
+        "appId": {
+            "value": "ad9259c3-7e3c-4bfd-bf24-041d8b979c90"
+        }
+    }
+}

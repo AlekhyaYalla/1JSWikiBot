@@ -1,0 +1,17 @@
+botbuilder-integration-aiohttp>=4.14.0
+sys
+traceback
+datetime
+aiohttp
+botbuilder.core
+botbuilder.schema
+openai
+urllib.request
+urllib3
+json
+os
+ssl
+dataclasses
+streamlit
+time
+math
